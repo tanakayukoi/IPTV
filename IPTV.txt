@@ -64,18 +64,6 @@ HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 TVB星河, http://php.jdshipin.com/smt.php?id=Xinhe
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVBPlus,http://r.jdshipin.com/Nr5jq
-TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-中天新闻,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0
-三立综合,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E7%B6%9C%E5%90%88%E5%8F%B0
-东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-中视新闻,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E
-东森新闻,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0
-八大精彩,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0
-华视新闻,https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E
-寰宇新闻,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
-民视台湾,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E5%8F%B0%E7%81%A3%E5%8F%B0
-靖天日本,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0
-
 
 TVBS新聞台,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv072
 東森新聞台,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv152
@@ -94,7 +82,6 @@ TVBS新聞台,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv072
 中視,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv040
 台視,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv066
 民視,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv002
-民視,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv155
 民視旅遊台,http://ezc.xtvantsc.xyz/litv.php?id=litv-ftv07
 亞洲旅遊台,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv076
 Smart知識台,http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang19
