@@ -81,7 +81,6 @@ TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
-東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 龍華电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
