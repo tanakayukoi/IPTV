@@ -86,7 +86,6 @@ TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 唐NTD,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 ASTV亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
