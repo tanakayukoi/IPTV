@@ -56,12 +56,43 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 
 港台频道,#genre#
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-TVB星河, http://php.jdshipin.com/smt.php?id=Xinhe
-TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-TVBPlus,http://r.jdshipin.com/Nr5jq
+鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+NOW新闻台,http://cdn.163189.xyz/163189/now
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
+澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
+SOPTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+AstroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+博斯運動,http://iptv.4666888.xyz/iptv2A.php?id=6
+
+TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
+非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
+東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+龍華电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
+八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
+民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
+唐NTD,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+ASTV亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+
+
+
+
 
 
