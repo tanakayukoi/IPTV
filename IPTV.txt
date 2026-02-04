@@ -60,6 +60,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=34
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB马来,http://iptv.4666888.xyz/iptv2A.php?id=28
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
@@ -67,11 +68,9 @@ TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
-NOW新闻台,http://cdn.163189.xyz/163189/now
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
 TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
-澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
 SOPTV,http://iptv.4666888.xyz/iptv2A.php?id=2
 
 TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
