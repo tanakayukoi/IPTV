@@ -63,7 +63,6 @@ TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB马来,http://iptv.4666888.xyz/iptv2A.php?id=28
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
