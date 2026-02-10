@@ -34,8 +34,6 @@ CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/i
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
-海峡卫视,http://8.138.7.223/tv/hxws.m3u8
-黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
@@ -43,6 +41,12 @@ CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/i
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+海峡卫视,http://8.138.7.223/tv/hxws.m3u8
+东南卫视,http://23.237.228.134/live6/dongnan.m3u8
+广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+四川卫视,http://23.237.228.134/live6/sichuan.m3u8
+海南卫视,http://23.237.228.134/live6/hainan.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -75,7 +79,6 @@ TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
 Now新闻台,http://cdn.163189.xyz/163189/now
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
-镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
 東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
