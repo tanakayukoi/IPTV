@@ -63,12 +63,10 @@ HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
 TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
-香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 
 TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
-华视,http://74.91.26.218:82/live/cts.m3u8
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 龍華电影,http://iptv.4666888.xyz/iptv2A.php?id=45
@@ -78,6 +76,7 @@ Now新闻台,http://cdn.163189.xyz/163189/now
 東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+
 
 
 
