@@ -42,6 +42,16 @@ CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/i
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+四川卫视,http://111.56.90.5/000000000000/1000000002000016825/1.m3u8
+山西卫视,http://111.56.90.5/000000000000/5000000006000040023/1.m3u8
+江西卫视,http://111.56.90.5/000000000000/1000000001000013731/1.m3u8
+吉林卫视,http://111.56.90.5/000000000000/1000000002000027730/1.m3u8
+河北卫视,http://111.56.90.5/000000000000/1000000002000017118/1.m3u8
+河南卫视,http://111.56.90.5/000000000000/5000000011000031119/1.m3u8
+东南卫视,http://111.56.90.5/000000000000/5000000004000010584/1.m3u8
+广西卫视,http://111.56.90.5/000000000000/5000000011000031118/1.m3u8
+云南卫视,http://111.56.90.5/000000000000/5000000011000031120/1.m3u8
+贵州卫视,http://111.56.90.5/000000000000/5000000004000025843/1.m3u8
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -55,6 +65,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 无线新闻,http://r.jdshipin.com/CkuBd
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 TVB马来,http://iptv.4666888.xyz/iptv2A.php?id=28
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
