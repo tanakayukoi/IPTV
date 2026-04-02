@@ -62,7 +62,6 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 TVB马来,http://iptv.4666888.xyz/iptv2A.php?id=28
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
@@ -71,18 +70,10 @@ TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
-TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
-澳视澳门,http://r.jdshipin.com/n2YZI
-澳视卫星,http://r.jdshipin.com/QFhCq
 
 TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
-CH5,https://cdn6.163189.xyz/163189/ch5
-CH8,https://cdn6.163189.xyz/163189/ch8
-CHU,https://cdn6.163189.xyz/163189/chu
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 Now新闻台,http://cdn.163189.xyz/163189/now
