@@ -42,12 +42,6 @@ CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/i
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-山西卫视,http://111.56.90.5/000000000000/5000000006000040023/1.m3u8
-河南卫视,http://111.56.90.5/000000000000/5000000011000031119/1.m3u8
-东南卫视,http://111.56.90.5/000000000000/5000000004000010584/1.m3u8
-广西卫视,http://111.56.90.5/000000000000/5000000011000031118/1.m3u8
-云南卫视,http://111.56.90.5/000000000000/5000000011000031120/1.m3u8
-贵州卫视,http://111.56.90.5/000000000000/5000000004000025843/1.m3u8
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -80,7 +74,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
-东森新闻,https://stream1.freetv.fun/63f8eb7e87fb508a6d82afd23a1e9287e1f2205368685562dce238ba767bb2ac.ctv
 東森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
 TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
