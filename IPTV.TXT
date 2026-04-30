@@ -62,6 +62,7 @@ TVB马来,http://iptv.4666888.xyz/iptv2A.php?id=28
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+HOY78,http://cdn.163189.xyz/163189/hoy78
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
 Now新闻台,http://cdn.163189.xyz/163189/now
@@ -77,8 +78,9 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
 TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
 民视新闻,http://iptv.4666888.xyz/iptv2A.php?id=55
-
-
+中天新闻,http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
+寰宇新闻,http://85.237.207.150:50007/of-litv-longturn14/index.m3u8
+寰宇台湾,http://85.237.207.150:50007/of-4gtv-4gtv156/index.m3u8
 
 
 
