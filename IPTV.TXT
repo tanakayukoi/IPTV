@@ -88,7 +88,7 @@ Now新闻台,http://cdn.163189.xyz/163189/now
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
 朝鲜中央台,https://tv.intchoson.com/kctv/index.m3u8
 亚洲旅游,http://85.237.207.150:50007/of-4gtv-4gtv076/index.m3u8
-中天台湾,http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
+中天新闻,http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
 寰宇新闻,http://85.237.207.150:50007/of-litv-longturn14/index.m3u8
 寰宇台湾,http://85.237.207.150:50007/of-4gtv-4gtv156/index.m3u8
 寰宇财经,http://85.237.207.150:50007/of-4gtv-4gtv158/index.m3u8
@@ -101,4 +101,4 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
 民视新闻,http://iptv.4666888.xyz/iptv2A.php?id=55
 TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
-中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
+
