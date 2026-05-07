@@ -752,3 +752,4 @@ MOViE MOViE,P2p://starvod.xyz:19806/43c03c874cfd4cf5bbf31ed09e31f30f
 EYE TV戏剧台,P2p://starvod.xyz:19806/48d5552976144f7c8d43075cbb55f0fe
 爱尔达影剧台,P2p://starvod.xyz:19806/a9def72aeb3d4caebc07e85941943199
 亚洲剧台,P2p://starvod.xyz:19806/623350e53f034ed28ff3cf504379d104
+
