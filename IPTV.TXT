@@ -74,7 +74,6 @@ MYTVSUPER,http://iptv.4666888.xyz/iptv2A.php?id=24
 CH5,http://cdn6.163189.xyz/163189/ch5
 CH8,http://cdn6.163189.xyz/163189/ch8
 CHU,http://cdn6.163189.xyz/163189/chu
-ViuTV,http://r.jdshipin.com/vSJvl
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
