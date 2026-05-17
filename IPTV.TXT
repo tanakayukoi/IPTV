@@ -76,10 +76,8 @@ CH8,http://cdn6.163189.xyz/163189/ch8
 CHU,http://cdn6.163189.xyz/163189/chu
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
-MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
 Now新闻台,http://cdn.163189.xyz/163189/now
 天映频道,https://o11.163189.xyz/stream/live/typd/
-八度空间,https://cdn6.163189.xyz/163189/8tv
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
