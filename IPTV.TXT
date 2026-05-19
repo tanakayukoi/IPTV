@@ -49,6 +49,7 @@ CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/i
 CHC动作,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+湖南金鹰,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 陕西一套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
 陕西二套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
 陕西三套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
@@ -69,6 +70,13 @@ CHC高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3
 咸阳,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
 西乡,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
 留坝,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
+西乡,http://111.20.33.70/PLTV/88888893/224/3221226556/index.m3u8
+城固,http://111.20.33.70/PLTV/88888893/224/3221226920/index.m3u8
+洋县,http://111.20.33.70/PLTV/88888893/224/3221226938/index.m3u8
+
+
+
+
 
 
 港台频道,#genre#
