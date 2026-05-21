@@ -57,41 +57,14 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
-黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=34
 无线新闻,http://r.jdshipin.com/CkuBd
 华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
 翡翠SG,https://o11.163189.xyz/stream/live/jade/
 千禧经典,https://o11.163189.xyz/stream/live/tvbc/
-TVB娱乐,http://iptv.4666888.xyz/iptv2A.php?id=36
-TVB明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB戏剧,http://iptv.4666888.xyz/iptv2A.php?id=33
-TVB武侠,http://cdn6.163189.xyz/163189/yzwx
-TVB金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
-TVB马来,http://iptv.4666888.xyz/iptv2A.php?id=28
-MYTVSUPER,http://iptv.4666888.xyz/iptv2A.php?id=24
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-RHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
-RHK32,http://cdn.163189.xyz/163189/rthk32
-HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
-HOY78,http://cdn.163189.xyz/163189/hoy78
-CH5,http://cdn6.163189.xyz/163189/ch5
-CH8,http://cdn6.163189.xyz/163189/ch8
-CHU,http://cdn6.163189.xyz/163189/chu
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Now新闻台,http://cdn.163189.xyz/163189/now
-天映频道,https://o11.163189.xyz/stream/live/typd/
-非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
 朝鲜中央台,https://tv.intchoson.com/kctv/index.m3u8
-TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
-靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
-靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
-民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
-民视新闻,http://iptv.4666888.xyz/iptv2A.php?id=55
-TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
+
 
