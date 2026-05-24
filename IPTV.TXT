@@ -66,13 +66,13 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
 鏡新聞,https://t.freetv.fun/live/jing-xin-wen.m3u8
+寰宇台灣,https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan.m3u8
 美亞電影,https://t.freetv.fun/live/mei-ya-dian-ying-1.m3u8
 台視新聞,https://t.freetv.fun/live/tai-shi-xin-wen-tai.m3u8
 民視新聞,https://t.freetv.fun/live/min-shi-xin-wen-tai-1.m3u8
 三立INEWS,https://t.freetv.fun/live/san-li-xin-wen-inews.m3u8
-寰宇台灣,https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan.m3u8
-東森新聞,https://t.freetv.fun/live/dong-sen-xin-wen-19.php
 東森超視,https://t.freetv.fun/live/dong-sen-chao-shi-5.m3u8
+東森新聞,https://t.freetv.fun/live/dong-sen-xin-wen-19.php
 東森財經,https://t.freetv.fun/live/dong-sen-cai-jing-xin-wen-16.php
 中天新聞,https://t.freetv.fun/live/zhong-tian-xin-wen-29.php
 中視新聞,https://t.freetv.fun/live/zhong-shi-xin-wen-17.php
