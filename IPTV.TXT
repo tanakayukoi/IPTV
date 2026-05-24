@@ -56,9 +56,6 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 翡翠台,https://cdn6.163189.xyz/163189/fct
 無綫新闻,https://cdn6.163189.xyz/163189/wxxw
 TVB星河,https://cdn6.163189.xyz/163189/tvbxh
-TVBJ1,https://t.freetv.fun/live/tvbj1.php
-TVB娱乐,https://t.freetv.fun/live/tvbyu-le-xin-wen-1.php
-TVB華劇,https://t.freetv.fun/live/tvbhuang-jin-hua-ju-1.php
 华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
 翡翠SG,https://o11.163189.xyz/stream/live/jade/
 千禧经典,https://o11.163189.xyz/stream/live/tvbc/
