@@ -56,6 +56,10 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 翡翠台,https://cdn6.163189.xyz/163189/fct
 無綫新闻,https://cdn6.163189.xyz/163189/wxxw
 TVB星河,https://cdn6.163189.xyz/163189/tvbxh
+TVB明珠,https://t.freetv.fun/live/ming-zhu-3.m3u8
+TVBJ1,https://t.freetv.fun/live/tvbj1.php
+TVB娱乐,https://t.freetv.fun/live/tvbyu-le-xin-wen-1.php
+TVB華劇,https://t.freetv.fun/live/tvbhuang-jin-hua-ju-1.php
 华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
 翡翠SG,https://o11.163189.xyz/stream/live/jade/
 千禧经典,https://o11.163189.xyz/stream/live/tvbc/
@@ -71,6 +75,7 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 台視新聞,https://t.freetv.fun/live/tai-shi-xin-wen-tai.m3u8
 民視新聞,https://t.freetv.fun/live/min-shi-xin-wen-tai-1.m3u8
 三立INEWS,https://t.freetv.fun/live/san-li-xin-wen-inews.m3u8
+TVB亞洲,https://t.freetv.fun/live/tvbsya-zhou-5.m3u8
 東森超視,https://t.freetv.fun/live/dong-sen-chao-shi-5.m3u8
 東森新聞,https://t.freetv.fun/live/dong-sen-xin-wen-19.php
 東森財經,https://t.freetv.fun/live/dong-sen-cai-jing-xin-wen-16.php
