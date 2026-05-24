@@ -60,9 +60,22 @@ TVB星河,https://cdn6.163189.xyz/163189/tvbxh
 翡翠SG,https://o11.163189.xyz/stream/live/jade/
 千禧经典,https://o11.163189.xyz/stream/live/tvbc/
 NOW新闻,https://cdn.163189.xyz/163189/now
+朝鲜中央台,https://tv.intchoson.com/kctv/index.m3u8
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
-朝鲜中央台,https://tv.intchoson.com/kctv/index.m3u8
+鏡新聞,https://t.freetv.fun/live/jing-xin-wen.m3u8
+美亞電影,https://t.freetv.fun/live/mei-ya-dian-ying-1.m3u8
+台視新聞,https://t.freetv.fun/live/tai-shi-xin-wen-tai.m3u8
+民視新聞,https://t.freetv.fun/live/min-shi-xin-wen-tai-1.m3u8
+東森超視,https://t.freetv.fun/live/dong-sen-chao-shi-5.m3u8
+東森新聞,https://t.freetv.fun/live/dong-sen-xin-wen-19.php
+東森財經,https://t.freetv.fun/live/dong-sen-cai-jing-xin-wen-16.php
+三立INEWS,https://t.freetv.fun/live/san-li-xin-wen-inews.m3u8
+中天新聞,https://t.freetv.fun/live/zhong-tian-xin-wen-29.php
+中視新聞,https://t.freetv.fun/live/zhong-shi-xin-wen-17.php
+寰宇新聞,https://t.freetv.fun/live/huan-yu-xin-wen-27.php
+寰宇台灣,https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan.m3u8
+華視新聞,https://t.freetv.fun/live/hua-shi-xin-wen-9.php
 
