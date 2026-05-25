@@ -66,7 +66,7 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
 鏡新聞,https://t.freetv.fun/live/jing-xin-wen.m3u8
 寰宇台灣,https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan.m3u8
-美亞電影,https://t.freetv.fun/live/mei-ya-dian-ying-1.m3u8
+美亞電影,https://t.freetv.fun/live/mei-ya-dian-ying.m3u8
 台視新聞,https://t.freetv.fun/live/tai-shi-xin-wen-tai.m3u8
 民視新聞,https://t.freetv.fun/live/min-shi-xin-wen-tai-1.m3u8
 三立INEWS,https://t.freetv.fun/live/san-li-xin-wen-inews.m3u8
