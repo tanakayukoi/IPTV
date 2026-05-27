@@ -56,16 +56,9 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 翡翠台,https://cdn6.163189.xyz/163189/fct
 無綫新闻,https://cdn6.163189.xyz/163189/wxxw
 TVB星河,https://cdn6.163189.xyz/163189/tvbxh
-华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
-翡翠SG,https://o11.163189.xyz/stream/live/jade/
 千禧经典,https://o11.163189.xyz/stream/live/tvbc/
-RTHK31,https://t.freetv.fun/live/rthk31.m3u8
-TVBPlus,https://t.freetv.fun/live/tvb-plus-1.m3u8
-香港衛視,https://t.freetv.fun/live/xiang-gang-wei-shi.m3u8
-朝鲜中央台,https://tv.intchoson.com/kctv/index.m3u8
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
-鏡新聞,https://t.freetv.fun/live/jing-xin-wen.m3u8
 台視新聞,https://t.freetv.fun/live/tai-shi-xin-wen-tai.m3u8
 民視新聞,https://t.freetv.fun/live/min-shi-xin-wen-tai-1.m3u8
