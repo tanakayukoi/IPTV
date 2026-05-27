@@ -74,9 +74,13 @@ TVBPlus,https://o11.163189.xyz/stream/tvb/tvbp/
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
+AMC電影,https://t.freetv.fun/live/amcdian-ying.m3u8
+TVBS,https://t.freetv.fun/live/tvbs-1.m3u8
 台視新聞,https://t.freetv.fun/live/tai-shi-xin-wen-tai.m3u8
 民視新聞,https://t.freetv.fun/live/min-shi-xin-wen-tai-1.m3u8
-
-
+寰宇新聞,https://t.freetv.fun/live/huan-yu-xin-wen.m3u8
+東森新聞,https://t.freetv.fun/live/dong-sen-xin-wen-1.m3u8
+民視,https://t.freetv.fun/live/min-shi-1-1.m3u8
+中天新聞,https://t.freetv.fun/live/zhong-tian-xin-wen-2.m3u8
 
 
