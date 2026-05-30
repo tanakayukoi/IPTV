@@ -62,10 +62,8 @@ CH8,http://cdn6.163189.xyz/163189/ch8
 CHU,http://cdn6.163189.xyz/163189/chu
 HOY77,http://cdn6.163189.xyz/163189/hoy
 HOY78,http://cdn.163189.xyz/163189/hoy78
-8TV,http://cdn6.163189.xyz/163189/8tv
 TVBPlus,https://o11.163189.xyz/stream/tvb/tvbp/
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-千禧经典,https://o11.163189.xyz/stream/live/tvbc/
 澳视澳门,http://cdn6.163189.xyz/163189/asam
 澳门莲花,http://cdn6.163189.xyz/163189/amlh
 龙华偶像,http://cdn8.163189.xyz/163189/lhox
