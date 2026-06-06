@@ -64,8 +64,6 @@ HOY77,http://cdn6.163189.xyz/163189/hoy
 HOY78,http://cdn.163189.xyz/163189/hoy78
 TVBPlus,https://o11.163189.xyz/stream/tvb/tvbp/
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-澳视澳门,http://cdn6.163189.xyz/163189/asam
-澳门莲花,http://cdn6.163189.xyz/163189/amlh
 龙华偶像,http://cdn8.163189.xyz/163189/lhox
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
