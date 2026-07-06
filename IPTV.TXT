@@ -56,7 +56,6 @@ CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/i
 甘肃卫视,http://61.178.227.57:9901/tsfile/live/0110_1.m3u8?key=txiptv
 贵州卫视,http://223.78.65.165:9901/tsfile/live/0120_1.m3u8?key=txiptv
 青海卫视,http://175.10.171.199:9901/tsfile/live/0140_1.m3u8?key=txiptv
-凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
