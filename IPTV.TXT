@@ -74,12 +74,10 @@ CHC影迷电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 中視,https://ha.msbot.dpdns.org/4gtv_api.php?id=4
 華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=256
 華視,https://ha.msbot.dpdns.org/4gtv_api.php?id=6
-寰宇新闻台湾台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
+寰宇新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=262
 TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
-TVBS台劇,https://ha.msbot.dpdns.org/4gtv_api.php?id=477
 TVBS精采,https://ha.msbot.dpdns.org/4gtv_api.php?id=227
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
-TVBS綜藝,https://ha.msbot.dpdns.org/4gtv_api.php?id=476
 TVBS歡樂,https://ha.msbot.dpdns.org/4gtv_api.php?id=184
 
