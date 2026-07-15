@@ -63,7 +63,7 @@ CHC影迷电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 
 港台频道,#genre#
 TVBPlus,https://t.freetv.fun/live/tvb-plus-3.m3u8
-Now新闻台,http://45.192.97.170:8880/play/941.m3u8
+Now新闻,http://45.192.97.170:8880/play/941.m3u8
 翡翠台,https://t.freetv.fun/live/fei-cui-tai.m3u8
 TVBJ1,http://45.192.97.170:8880/play/953.m3u8
 
