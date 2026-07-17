@@ -43,11 +43,10 @@ CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/i
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
-渭南新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
+渭南综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
 东南卫视,http://223.78.65.165:9901/tsfile/live/0137_1.m3u8?key=txiptv
 广西卫视,http://175.10.171.199:9901/tsfile/live/1017_1.m3u8?key=txiptv
 河南卫视,http://223.78.65.165:9901/tsfile/live/0139_1.m3u8?key=txiptv
-甘肃卫视,http://61.178.227.57:9901/tsfile/live/0110_1.m3u8?key=txiptv
 贵州卫视,http://223.78.65.165:9901/tsfile/live/0120_1.m3u8?key=txiptv
 青海卫视,http://175.10.171.199:9901/tsfile/live/0140_1.m3u8?key=txiptv
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
