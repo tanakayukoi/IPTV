@@ -56,16 +56,15 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 CHC影迷电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 
 港台频道,#genre#
-鳳凰卫视,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
 翡翠台,https://t.freetv.fun/live/fei-cui-tai.m3u8
 TVBPlus,https://t.freetv.fun/live/tvb-plus-3.m3u8
 
 
 
 中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
+三立iNEWS,https://ha.msbot.dpdns.org/4gtv_api.php?id=229
 東森新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
 東森財經新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=211
-三立iNEWS,https://ha.msbot.dpdns.org/4gtv_api.php?id=229
 民視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=31
 民視綜藝,https://ha.msbot.dpdns.org/4gtv_api.php?id=16
 民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=3
@@ -73,8 +72,8 @@ TVBPlus,https://t.freetv.fun/live/tvb-plus-3.m3u8
 中視,https://ha.msbot.dpdns.org/4gtv_api.php?id=4
 華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=256
 華視,https://ha.msbot.dpdns.org/4gtv_api.php?id=6
-寰宇新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=262
+寰宇新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
 TVBS精采,https://ha.msbot.dpdns.org/4gtv_api.php?id=227
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
