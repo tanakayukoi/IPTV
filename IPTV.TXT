@@ -17,7 +17,6 @@ CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-CCTV4K,https://t.freetv.fun/live/cctv-4kgao-qing-2.m3u8
 CCTV世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
 CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
 CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8
@@ -57,20 +56,19 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 CHC影迷电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 
 港台频道,#genre#
-鳳凰衛視中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
-TVBPlus,https://t.freetv.fun/live/tvb-plus-3.m3u8
-Now新闻,http://45.192.97.170:8880/play/941.m3u8
+鳳凰卫视,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
 翡翠台,https://t.freetv.fun/live/fei-cui-tai.m3u8
-TVBJ1,http://45.192.97.170:8880/play/953.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+TVBPlus,https://t.freetv.fun/live/tvb-plus-3.m3u8
+
+
+
+中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
 東森新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
 東森財經新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=211
 三立iNEWS,https://ha.msbot.dpdns.org/4gtv_api.php?id=229
 民視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=31
-民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=3
 民視綜藝,https://ha.msbot.dpdns.org/4gtv_api.php?id=16
-中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
-中天新聞,https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
+民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=3
 中視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=258
 中視,https://ha.msbot.dpdns.org/4gtv_api.php?id=4
 華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=256
@@ -78,7 +76,6 @@ TVBJ1,http://45.192.97.170:8880/play/953.m3u8
 寰宇新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=262
 TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
-TVBS,https://t.freetv.fun/live/tvbs-1.m3u8
 TVBS精采,https://ha.msbot.dpdns.org/4gtv_api.php?id=227
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 TVBS歡樂,https://ha.msbot.dpdns.org/4gtv_api.php?id=184
